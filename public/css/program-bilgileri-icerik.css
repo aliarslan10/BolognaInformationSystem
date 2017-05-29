@@ -1,0 +1,26 @@
+.program-bilgileri-icerik-menusu{
+	width: 25%;
+	float:right;
+	border-left: 1px solid #aeb2b4;
+	padding-left: 5px;
+	margin-top: -5px;
+}
+
+.program-bilgileri-icerik-menusu ul{
+	padding-left: 15px;
+	margin-top: -10px;
+}
+
+.program-bilgileri-icerik{
+	width: 74%;
+	min-height: 493px;
+	text-align:Justify;
+}
+
+.footer{
+	background-color:#eeeff0; 
+	text-align: center;
+	min-height: 20px;
+	margin-top: 495px;
+}
+	
